@@ -1,0 +1,11 @@
+D:\Documents\Tri-C\Summer 2019\IT1050\IT1050_Lab15\IT1050_Lab15\bin\Debug\netcoreapp2.1\IT1050_Lab15.deps.json
+D:\Documents\Tri-C\Summer 2019\IT1050\IT1050_Lab15\IT1050_Lab15\bin\Debug\netcoreapp2.1\IT1050_Lab15.runtimeconfig.json
+D:\Documents\Tri-C\Summer 2019\IT1050\IT1050_Lab15\IT1050_Lab15\bin\Debug\netcoreapp2.1\IT1050_Lab15.runtimeconfig.dev.json
+D:\Documents\Tri-C\Summer 2019\IT1050\IT1050_Lab15\IT1050_Lab15\bin\Debug\netcoreapp2.1\IT1050_Lab15.dll
+D:\Documents\Tri-C\Summer 2019\IT1050\IT1050_Lab15\IT1050_Lab15\bin\Debug\netcoreapp2.1\IT1050_Lab15.pdb
+D:\Documents\Tri-C\Summer 2019\IT1050\IT1050_Lab15\IT1050_Lab15\obj\Debug\netcoreapp2.1\IT1050_Lab15.csprojAssemblyReference.cache
+D:\Documents\Tri-C\Summer 2019\IT1050\IT1050_Lab15\IT1050_Lab15\obj\Debug\netcoreapp2.1\IT1050_Lab15.csproj.CoreCompileInputs.cache
+D:\Documents\Tri-C\Summer 2019\IT1050\IT1050_Lab15\IT1050_Lab15\obj\Debug\netcoreapp2.1\IT1050_Lab15.AssemblyInfoInputs.cache
+D:\Documents\Tri-C\Summer 2019\IT1050\IT1050_Lab15\IT1050_Lab15\obj\Debug\netcoreapp2.1\IT1050_Lab15.AssemblyInfo.cs
+D:\Documents\Tri-C\Summer 2019\IT1050\IT1050_Lab15\IT1050_Lab15\obj\Debug\netcoreapp2.1\IT1050_Lab15.dll
+D:\Documents\Tri-C\Summer 2019\IT1050\IT1050_Lab15\IT1050_Lab15\obj\Debug\netcoreapp2.1\IT1050_Lab15.pdb
